@@ -4,4 +4,4 @@
 
 **App screenshots:**
 
-![Screenshot][signUpPage.png] ![Screenshot][chatPage.png]
+![Screenshot](lib/signUpPage.png) ![Screenshot](lib/chatPage.png)
